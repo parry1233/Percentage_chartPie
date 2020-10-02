@@ -1,0 +1,9 @@
+C:\Users\USER\source\repos\NET_hw12_DrawPie\NET_hw12_DrawPie\bin\Debug\NET_hw12_DrawPie.exe.config
+C:\Users\USER\source\repos\NET_hw12_DrawPie\NET_hw12_DrawPie\bin\Debug\NET_hw12_DrawPie.exe
+C:\Users\USER\source\repos\NET_hw12_DrawPie\NET_hw12_DrawPie\bin\Debug\NET_hw12_DrawPie.pdb
+C:\Users\USER\source\repos\NET_hw12_DrawPie\NET_hw12_DrawPie\obj\Debug\NET_hw12_DrawPie.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\NET_hw12_DrawPie\NET_hw12_DrawPie\obj\Debug\NET_hw12_DrawPie.Form1.resources
+C:\Users\USER\source\repos\NET_hw12_DrawPie\NET_hw12_DrawPie\obj\Debug\NET_hw12_DrawPie.Properties.Resources.resources
+C:\Users\USER\source\repos\NET_hw12_DrawPie\NET_hw12_DrawPie\obj\Debug\NET_hw12_DrawPie.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\NET_hw12_DrawPie\NET_hw12_DrawPie\obj\Debug\NET_hw12_DrawPie.exe
+C:\Users\USER\source\repos\NET_hw12_DrawPie\NET_hw12_DrawPie\obj\Debug\NET_hw12_DrawPie.pdb
