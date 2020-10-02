@@ -1,0 +1,9 @@
+C:\Users\USER\source\repos\NET_hw12_ChartPie\NET_hw12_ChartPie\bin\Debug\NET_hw12_ChartPie.exe.config
+C:\Users\USER\source\repos\NET_hw12_ChartPie\NET_hw12_ChartPie\bin\Debug\NET_hw12_ChartPie.exe
+C:\Users\USER\source\repos\NET_hw12_ChartPie\NET_hw12_ChartPie\bin\Debug\NET_hw12_ChartPie.pdb
+C:\Users\USER\source\repos\NET_hw12_ChartPie\NET_hw12_ChartPie\obj\Debug\NET_hw12_ChartPie.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\NET_hw12_ChartPie\NET_hw12_ChartPie\obj\Debug\NET_hw12_ChartPie.Form1.resources
+C:\Users\USER\source\repos\NET_hw12_ChartPie\NET_hw12_ChartPie\obj\Debug\NET_hw12_ChartPie.Properties.Resources.resources
+C:\Users\USER\source\repos\NET_hw12_ChartPie\NET_hw12_ChartPie\obj\Debug\NET_hw12_ChartPie.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\NET_hw12_ChartPie\NET_hw12_ChartPie\obj\Debug\NET_hw12_ChartPie.exe
+C:\Users\USER\source\repos\NET_hw12_ChartPie\NET_hw12_ChartPie\obj\Debug\NET_hw12_ChartPie.pdb
